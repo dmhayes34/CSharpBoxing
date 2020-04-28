@@ -1,0 +1,11 @@
+C:\Users\hayes\source\repos\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.csprojAssemblyReference.cache
+C:\Users\hayes\source\repos\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.AssemblyInfoInputs.cache
+C:\Users\hayes\source\repos\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.AssemblyInfo.cs
+C:\Users\hayes\source\repos\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.exe
+C:\Users\hayes\source\repos\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.deps.json
+C:\Users\hayes\source\repos\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.runtimeconfig.json
+C:\Users\hayes\source\repos\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.runtimeconfig.dev.json
+C:\Users\hayes\source\repos\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.dll
+C:\Users\hayes\source\repos\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.pdb
+C:\Users\hayes\source\repos\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.dll
+C:\Users\hayes\source\repos\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.pdb
