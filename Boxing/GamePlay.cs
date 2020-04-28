@@ -38,11 +38,11 @@ namespace Boxing
 
         public static string CheckForWinner(Boxer Player, Boxer Computer)
         {
-            if ((Player.Health < 0) || (Player.Stamina < 0))
+            if ((Player.Health <= 0) || (Player.Stamina <= 0))
             {
                 return "\tPlayer Loses!";
             }
-            else if  ((Computer.Health < 0) || (Computer.Stamina < 0) )
+            else if  ((Computer.Health <= 0) || (Computer.Stamina <= 0) )
             {
                 return "\tPLAYER WINS!!!!";
             }
